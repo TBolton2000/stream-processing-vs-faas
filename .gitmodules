@@ -1,0 +1,9 @@
+[submodule "kafka-node-faas-app"]
+	path = kafka-node-faas-app
+	url = https://github.com/TBolton2000/kafka-node-faas-app.git
+[submodule "kafka-streams-app"]
+	path = kafka-streams-app
+	url = https://github.com/TBolton2000/kafka-streams-app.git
+[submodule "kafka-java-faas-app"]
+	path = kafka-java-faas-app
+	url = https://github.com/TBolton2000/kafka-java-faas-app.git
