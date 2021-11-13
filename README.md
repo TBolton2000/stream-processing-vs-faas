@@ -1,6 +1,6 @@
 # stream-processing-vs-faas
 
-This repository holds all code and implementations I have developed for my undergraduate thesis as part of Texas A&M's Undergraduate Research Scholars. Due to time constraints and lack of expertise, these applications are incomplete and not benchmarked. In my paper, you can find more information about this project and further works that may be built on top of this project.
+This repository holds all code and implementations I have developed for my undergraduate thesis as part of Texas A&M's Undergraduate Research Scholars. Due to time constraints and lack of expertise, these applications are incomplete and not benchmarked. In [my paper](https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/194395/BOLTON-FINALTHESIS-2021.pdf?sequence=1&isAllowed=y), you can find more information about this project and further works that may be built on top of this project.
 
 Some helpful but incomplete/outdated tutorials for setting up Kafka:
 
